@@ -1,0 +1,17 @@
+.body{
+    text-align:center;
+}
+
+.signout{
+    text-align: right;
+    position: relative;
+    left: 540px;
+    bottom:120px;
+    color: white;
+    background-color: black;
+}
+
+.signin{
+    color:white;
+    background-color:black;
+}
